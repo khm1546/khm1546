@@ -1,20 +1,10 @@
 <div align="center">
 
-<img src="avatar2.png" width="160" />
+<img src="avatar2.png" width="200" />
 
 ### Hey there! I'm **khm1546**
 
-<br/>
 
-```
-  ____          _           _   _
- / ___|___   __| | ___     | | | |_   _ _ __
-| |   / _ \ / _` |/ _ \    | |_| | | | | '_ \
-| |__| (_) | (_| |  __/    |  _  | |_| | | | |
- \____\___/ \__,_|\___|    |_| |_|\__,_|_| |_|
-```
-
-<br/>
 
 [![GitHub followers](https://img.shields.io/github/followers/khm1546?style=for-the-badge&logo=github&label=Followers&color=181717)](https://github.com/khm1546)
 [![GitHub stars](https://img.shields.io/github/stars/khm1546?style=for-the-badge&logo=github&label=Stars&color=181717)](https://github.com/khm1546)
