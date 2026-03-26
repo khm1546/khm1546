@@ -40,14 +40,6 @@
 
 ---
 
-### Featured Project
-
-<a href="https://github.com/khm1546/fans">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=khm1546&repo=fans&theme=tokyonight&hide_border=true" />
-</a>
-
----
-
 ### GitHub Stats
 
 <div align="center">
