@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="avatar.png" width="160" />
+<img src="avatar2.png" width="160" />
 
 ### Hey there! I'm **khm1546**
 
@@ -71,7 +71,7 @@
 
 <div align="center">
 
-<img src="avatar.png" width="40" />
+<img src="avatar2.png" width="40" />
 
 *"Code is like humor. When you have to explain it, it's bad."*
 
